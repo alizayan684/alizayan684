@@ -21,8 +21,8 @@ I am interested in AI and research and easily adapt to different hats depending 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 <a href="https://www.cplusplus.com/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg"></a>
 <br>
-![](https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-processing-informational?style=flat&logo=processing&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/C-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Processing-informational?style=flat&logo=Processing&logoColor=white&color=2bbc8a)
 
 
 
