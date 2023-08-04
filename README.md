@@ -7,7 +7,7 @@ I am interested in AI and research and easily adapt to different hats depending 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on [**Chess Game new theme**](https://github.com/alizayan684/Multiverse_Of_Chess)
+- 🔭 &nbsp; I’m currently working on [**Chess Game new theme**](https://github.com/alizayan684/MultiVerse-Of-Chess)
 - 👨🏻‍💻 &nbsp; All of my projects are available on [**Github**](https://github.com/alizayan684?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [**LinkedIn**](https://www.linkedin.com/in/ali-zayan-b98239264/)
