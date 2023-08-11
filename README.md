@@ -28,5 +28,3 @@ I am interested in AI and research and easily adapt to different hats depending 
 
 
 <br>
-
-### 🛠️ My Projects
