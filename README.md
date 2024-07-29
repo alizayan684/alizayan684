@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Ali Zayan!
-<a href='https://www.linkedin.com/in/ali-zayan-b98239264'><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/%D8%B9%D9%84%D9%8A-%D8%B2%D9%8A%D8%A7%D9%86-%F0%9F%94%BB%F0%9F%87%B5%F0%9F%87%B8-b98239264/'><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
 I am interested in AI and research and easily adapt to different hats depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️. 
 <br/>
