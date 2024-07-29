@@ -1,15 +1,15 @@
 ## Hey 👋, I'm Ali Zayan!
-<a href='https://www.linkedin.com/in/ali-zayan-b98239264'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/ali-zayan-b98239264'><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
-I am interested in AI and research and easily adapt to different hats depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am interested in AI and research and easily adapt to different hats depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️. 
 <br/>
 <br/>
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on [**BOOK SHOP GUI**](https://github.com/alizayan684/Book_Shop_Qt5)
+- 🔭 &nbsp; I’m currently learning about Data Analytics!
 - 👨🏻‍💻 &nbsp; All of my projects are available on [**Github**](https://github.com/alizayan684?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp; Ask me about anything tech-related, and I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [**LinkedIn**](https://www.linkedin.com/in/ali-zayan-b98239264/)
 
 <br>
