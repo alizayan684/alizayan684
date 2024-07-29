@@ -20,7 +20,7 @@ I am interested in AI and research and easily adapt to different hats depending 
 - 🔭 &nbsp; I’m currently learning about Data Analytics!
 - 👨🏻‍💻 &nbsp; All of my projects are available on [**Github**](https://github.com/alizayan684?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech-related, and I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [**LinkedIn**](https://www.linkedin.com/in/ali-zayan-b98239264/)
+- 📫 &nbsp; Feel free to ping me on [**LinkedIn**](https://www.linkedin.com/in/%D8%B9%D9%84%D9%8A-%D8%B2%D9%8A%D8%A7%D9%86-%F0%9F%94%BB%F0%9F%87%B5%F0%9F%87%B8-b98239264)
 
 <br>
 
