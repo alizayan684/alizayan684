@@ -5,7 +5,17 @@ I am interested in AI and research and easily adapt to different hats depending 
 <br/>
 <br/>
   
-### 🧐 More About Me:
+## 🧐 More About Me:
+
+### 💼 Experience
+
+### [Eco Racing Team](https://cu-eco.org/)
+**Algorithms Developer - Autonomous Systems Development Team**  
+*Sep 2023 – Current*
+- Implemented path-planning algorithms such as hybrid A*, Reeds-Shepp, and Dubins’ curves for our vehicle using C++ and Python in the ROS1 environment on Ubuntu.
+- Optimized the performance and robustness of the current code, addressed issues, and tested using CARLA and RViz simulators.
+- Followed best practices for clean code, wrote documentation, and collaborated with teammates using Git and GitHub.
+
 
 - 🔭 &nbsp; I’m currently learning about Data Analytics!
 - 👨🏻‍💻 &nbsp; All of my projects are available on [**Github**](https://github.com/alizayan684?tab=repositories)
@@ -14,6 +24,13 @@ I am interested in AI and research and easily adapt to different hats depending 
 
 <br>
 
+## 🔧 Skills
+- **Programming Languages**: C/C++, Python, JavaScript, SQL
+- **Technologies**: Node.js (Express), Java Swing, HTML, PyQt5, Git and GitHub, ROS1 (noetic)
+- **Database**: PostgreSQL
+- **Core Skills**: Data Structures, Algorithms, OOP, Technical Writing
+
+---
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
