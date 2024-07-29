@@ -23,8 +23,10 @@ I am interested in AI and research and easily adapt to different hats depending 
 <br>
 ![](https://img.shields.io/badge/C-Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Processing-informational?style=flat&logo=Processing&logoColor=white&color=2bbc8a)
-
-
-
-
 <br>
+## 📫 Contact Me
+- 🇪🇬 Cairo, Egypt
+- 📞 +201143422963
+- 📧 [Ali.Esmail03@eng-st.cu.edu.eg](mailto:Ali.Esmail03@eng-st.cu.edu.eg)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/AliZayan)
+- 🔗 [GitHub](https://github.com/alizayan684)
