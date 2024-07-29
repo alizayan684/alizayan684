@@ -8,15 +8,19 @@ I am interested in AI and research and easily adapt to different hats depending 
 ## 🧐 More About Me:
 
 ### 💼 Experience
+### [National Academy of Information Technology for Persons with Disabilities (NAID)](https://www.linkedin.com/company/naidacademy/)
+**Mixed Reality Intern** <br>
+*Jul 2024 - Present*
+- I am currently participating in an internship as part of a team of three interns, collectively focusing on the exploration and development of innovative Mixed Reality solutions in the realm of assistive technology. This opportunity gives us access to the academy’s state-of-the-art high-tech laboratories, providing a rich environment for experimenting with a variety of MR tools and devices.
+The internship program includes comprehensive training modules in both Unity and Unreal Engine, coupled with sessions aimed at enhancing general soft skills and specialized knowledge in assistive technology. We are mentored by professional engineers, who will guide us through a GP project to be completed by the end of the internship period.
 
 ### [Eco Racing Team](https://cu-eco.org/)
 **Algorithms Developer - Autonomous Systems Development Team**  
-*Sep 2023 – Current*
+*Sep 2023 – Present*
 - Implemented path-planning algorithms such as hybrid A*, Reeds-Shepp, and Dubins’ curves for our vehicle using C++ and Python in the ROS1 environment on Ubuntu.
 - Optimized the performance and robustness of the current code, addressed issues, and tested using CARLA and RViz simulators.
 - Followed best practices for clean code, wrote documentation, and collaborated with teammates using Git and GitHub.
-
-
+## Some more things:
 - 🔭 &nbsp; I’m currently learning about Data Analytics!
 - 👨🏻‍💻 &nbsp; All of my projects are available on [**Github**](https://github.com/alizayan684?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech-related, and I am happy to help;
