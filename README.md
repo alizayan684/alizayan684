@@ -45,5 +45,5 @@ I am interested in AI and research and easily adapt to different hats depending 
 - 🇪🇬 Cairo, Egypt
 - 📞 +201143422963
 - 📧 [Ali.Esmail03@eng-st.cu.edu.eg](mailto:Ali.Esmail03@eng-st.cu.edu.eg)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/AliZayan)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/%D8%B9%D9%84%D9%8A-%D8%B2%D9%8A%D8%A7%D9%86-%F0%9F%94%BB%F0%9F%87%B5%F0%9F%87%B8-b98239264)
 - 🔗 [GitHub](https://github.com/alizayan684)
