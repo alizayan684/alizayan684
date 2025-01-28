@@ -16,14 +16,14 @@ The internship program includes comprehensive training modules in both Unity and
 ### [Cairo Uni. Eco Racing Team](https://cu-eco.org/)
 **Algorithms Developer - Autonomous Systems Development Team**  
 *Sep 2023 – Present*
-- Implemented path-planning algorithms such as hybrid A*, Reeds-Shepp, and Dubins’ curves for our vehicle using C++ and Python in the ROS1 environment on Ubuntu.
+- Implemented path-planning algorithms such as hybrid A*, Reeds-Shepp, and Dubins’ curves for our vehicle using C++ in the ROS environment on Ubuntu.
 - Optimized the performance and robustness of the current code, addressed issues, and tested using CARLA and RViz simulators.
 - Followed best practices for clean code, wrote documentation, and collaborated with teammates using Git and GitHub.
 ## Some more things:
 - 🔭 &nbsp; I’m currently learning about Data Analytics!
 - 👨🏻‍💻 &nbsp; All of my projects are available on [**Github**](https://github.com/alizayan684?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech-related, and I am happy to help!
-- 📫 &nbsp; Feel free to ping me on [**LinkedIn**](https://www.linkedin.com/in/%D8%B9%D9%84%D9%8A-%D8%B2%D9%8A%D8%A7%D9%86-%F0%9F%94%BB%F0%9F%87%B5%F0%9F%87%B8-b98239264)
+- 📫 &nbsp; Feel free to ping me on [**LinkedIn**](linkedin.com/in/ali-zayan-b98239264)
 
 <br>
 
