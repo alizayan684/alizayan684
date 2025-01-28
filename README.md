@@ -66,6 +66,6 @@ The internship program includes comprehensive training modules in both Unity and
 ## 📫 Contact Me
 - 🇪🇬 Cairo, Egypt
 - 📞 +201143422963
-- 📧 [Ali.Esmail03@eng-st.cu.edu.eg](mailto:Ali.Esmail03@eng-st.cu.edu.eg)
+- 📧 [Ali.Esmail03@eng-st.cu.edu.eg](mailto:alizayan684@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ali-zayan-b98239264)
 - 🔗 [GitHub](https://github.com/alizayan684)
