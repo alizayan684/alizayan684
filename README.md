@@ -23,7 +23,7 @@ The internship program includes comprehensive training modules in both Unity and
 - 🔭 &nbsp; I’m currently learning about Data Analytics!
 - 👨🏻‍💻 &nbsp; All of my projects are available on [**Github**](https://github.com/alizayan684?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech-related, and I am happy to help!
-- 📫 &nbsp; Feel free to ping me on [**LinkedIn**](linkedin.com/in/ali-zayan-b98239264)
+- 📫 &nbsp; Feel free to ping me on [**LinkedIn**](https://www.linkedin.com/in/ali-zayan-b98239264)
 
 <br>
 
