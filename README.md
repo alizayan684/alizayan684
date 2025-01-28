@@ -13,7 +13,7 @@ I am interested in data engineering and research and easily adapt to different h
 - I am currently participating in an internship as part of a team of three interns, collectively focusing on the exploration and development of innovative Mixed Reality solutions in the realm of assistive technology. This opportunity gives us access to the academy’s state-of-the-art high-tech laboratories, providing a rich environment for experimenting with a variety of MR tools and devices.
 The internship program includes comprehensive training modules in both Unity and Unreal Engine, coupled with sessions aimed at enhancing general soft skills and specialized knowledge in assistive technology. We are mentored by professional engineers, who will guide us through a GP project to be completed by the end of the internship period.
 
-### [Eco Racing Team](https://cu-eco.org/)
+### [Cairo Uni. Eco Racing Team](https://cu-eco.org/)
 **Algorithms Developer - Autonomous Systems Development Team**  
 *Sep 2023 – Present*
 - Implemented path-planning algorithms such as hybrid A*, Reeds-Shepp, and Dubins’ curves for our vehicle using C++ and Python in the ROS1 environment on Ubuntu.
