@@ -15,11 +15,9 @@ I am interested in autonomous driving, data engineering and research, and easily
 ### [Cairo Uni. Eco Racing Team](https://cu-eco.org/)
 **Algorithms Developer - Autonomous Systems Development Team**  
 *Sep 2023 – May 2025*
-- Implemented path-planning algorithms such as hybrid A*, Reeds-Shepp, and Dubins’ curves for our vehicle using C++ in the ROS environment on Ubuntu.
-- Optimized the performance and robustness of the current code, addressed issues, and tested using CARLA and RViz simulators.
-- Followed best practices for clean code, wrote documentation, and collaborated with teammates using Git and GitHub.
+- A team leader and a mentor for the autonomous navigation team.
+- One of the winning teams in 2025 Shell's autonomous driving competition.
 ## Some more things:
-- 🔭 &nbsp; I’m currently learning about Data Analytics!
 - 👨🏻‍💻 &nbsp; All of my projects are available on [**Github**](https://github.com/alizayan684?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech-related, and I am happy to help!
 - 📫 &nbsp; Feel free to ping me on [**LinkedIn**](https://www.linkedin.com/in/ali-zayan-b98239264)
