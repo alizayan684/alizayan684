@@ -5,8 +5,12 @@ I am interested in autonomous driving, data engineering and research, and easily
 <br/>
   
 ## 🧐 More About Me:
-
 ### 💼 Interns and Activities
+### [Astute Imaging](https://astuteimaging.com/)
+**Software Engineer Intern** <br>
+*Jul. 2025 – Sep. 2025*
+- Implemented state-of-the-art algorithms for physics-based 3D medical visualisations of surgical procedures.
+- Developed medical simulators using Three.js and React for assisted measurements with machine learning.
 ### [National Academy of Information Technology for Persons with Disabilities (NAID)](https://www.linkedin.com/company/naidacademy/)
 **Mixed Reality Intern** <br>
 *Jul 2024 - September 2024*
