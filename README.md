@@ -1,21 +1,20 @@
 ## Hey 👋, I'm Ali Zayan!
 
-I am interested in data engineering and research and easily adapt to different hats depending on the project's requirements. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️. 
+I am interested in autonomous driving, data engineering and research, and easily adapt to different hats depending on the project's requirements. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️. 
 <br/>
 <br/>
   
 ## 🧐 More About Me:
 
-### 💼 Interns and Activites
+### 💼 Interns and Activities
 ### [National Academy of Information Technology for Persons with Disabilities (NAID)](https://www.linkedin.com/company/naidacademy/)
 **Mixed Reality Intern** <br>
-*Jul 2024 - septemper 2024*
-- I am currently participating in an internship as part of a team of three interns, collectively focusing on the exploration and development of innovative Mixed Reality solutions in the realm of assistive technology. This opportunity gives us access to the academy’s state-of-the-art high-tech laboratories, providing a rich environment for experimenting with a variety of MR tools and devices.
-The internship program includes comprehensive training modules in both Unity and Unreal Engine, coupled with sessions aimed at enhancing general soft skills and specialized knowledge in assistive technology. We are mentored by professional engineers, who will guide us through a GP project to be completed by the end of the internship period.
+*Jul 2024 - September 2024*
+- An internship as part of a team of three interns, collectively focusing on the development of innovative Mixed Reality solutions in the realm of assistive technology. This opportunity gave us access to the academy’s state-of-the-art high-tech laboratories and training modules in both Unity and Unreal Engine, with sessions in assistive technology.
 
 ### [Cairo Uni. Eco Racing Team](https://cu-eco.org/)
 **Algorithms Developer - Autonomous Systems Development Team**  
-*Sep 2023 – Present*
+*Sep 2023 – May 2025*
 - Implemented path-planning algorithms such as hybrid A*, Reeds-Shepp, and Dubins’ curves for our vehicle using C++ in the ROS environment on Ubuntu.
 - Optimized the performance and robustness of the current code, addressed issues, and tested using CARLA and RViz simulators.
 - Followed best practices for clean code, wrote documentation, and collaborated with teammates using Git and GitHub.
