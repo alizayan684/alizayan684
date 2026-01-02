@@ -1,4 +1,4 @@
-## Hey 👋, I'm Ali Zayan!
+## Hey 👋, I'm Ali Ismail!
 
 I am interested in autonomous driving, data engineering and research, and easily adapt to different hats depending on the project's requirements. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️. 
 <br/>
