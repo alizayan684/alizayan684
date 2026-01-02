@@ -22,7 +22,7 @@ I am interested in autonomous driving, data engineering and research, and easily
 - A team leader and a mentor for the autonomous navigation team.
 - One of the winning teams in 2025 Shell's autonomous driving competition.
 ## Some more things:
-- 👨🏻‍💻 &nbsp; All of my projects are available on [**Github**](https://github.com/alizayan684?tab=repositories)
+- 👨🏻‍💻 &nbsp; See my portfolio [**here**](https://alizayan684.github.io/me/)
 - 💬 &nbsp; Ask me about anything tech-related, and I am happy to help!
 - 📫 &nbsp; Feel free to ping me on [**LinkedIn**](https://www.linkedin.com/in/ali-zayan-b98239264)
 
@@ -69,4 +69,4 @@ I am interested in autonomous driving, data engineering and research, and easily
 - 📞 +201143422963
 - 📧 [Email](mailto:alizayan684@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ali-zayan-b98239264)
-- 🔗 [GitHub](https://github.com/alizayan684)
+- 🔗 [Portfolio](https://alizayan684.github.io/me/)
