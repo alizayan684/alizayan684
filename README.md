@@ -14,7 +14,7 @@ I am interested in autonomous driving, data engineering and research, and easily
 ### [National Academy of Information Technology for Persons with Disabilities (NAID)](https://www.linkedin.com/company/naidacademy/)
 **Mixed Reality Intern** <br>
 *Jul 2024 - September 2024*
-- A training in assitive tech and XR, collectively focusing on the development of innovative Mixed Reality solutions in the realm of assistive technology. This opportunity gave us access to the academy’s state-of-the-art high-tech laboratories and training modules in both Unity and Unreal Engine, with sessions in assistive technology.
+- A training in assistive tech and XR, collectively focusing on the development of innovative Mixed Reality solutions in the realm of assistive technology. This opportunity gave us access to the academy’s state-of-the-art high-tech laboratories and training modules in both Unity and Unreal Engine, with sessions in assistive technology.
 
 ### [Cairo Uni. Eco Racing Team](https://cu-eco.org/)
 **Algorithms Developer - Autonomous Systems Development Team**  
